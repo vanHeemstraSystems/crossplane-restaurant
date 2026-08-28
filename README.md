@@ -10,6 +10,8 @@ To Do: add what was done to achieve this.
 
 We've saved the audio instructions from our ChatGPT discussion.
 
+See [audio-instructions.md](./audio-instructions.md)
+
 ## 3. Enter the audio instruction into Wondercraft.ai
 
 Paste the content of `audio-instructions.md` as a whole into a new **Audio Project**'s prompt field in [Wondercraft.ai](https://windercraft.ai) to generate an audio track (turn autogenerate ON) to accompany the slides of a (PowerPoint) presentation about Crossplane with the metaphor of a restaurant.
