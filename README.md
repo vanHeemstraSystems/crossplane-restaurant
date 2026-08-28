@@ -20,10 +20,14 @@ Paste the content of `audio-instructions.md` as a whole into a new **Audio Proje
 
 See [RECORDING](../RECORDING.md).
 
-## 5. Add the audio scenes to the presentation
+## 5. Edit the audio and split into scenes
+
+See [EDITING](./EDITING.md).
+
+## 6. Add the audio scenes to the presentation
 
 Edit the recorded audio and split the timeline into individual scenes, each scene to be added to its respective slide in the presentation.
 
-## 6. Present and play audio per slide
+## 7. Present and play audio per slide
 
 When presenting, play each audio clip for each slide sequentially.
